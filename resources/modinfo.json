@@ -1,12 +1,12 @@
 {
 	"type": "code",
-	"name": "HowtoExample",
-	"modid": "howtoexample",
-	"version": "1.3.0",
+	"name": "Hydration",
+	"modid": "hydration",
+	"version": "0.0.1",
 	
-	"description" : "An example mod using VS Code and .NET",
-	"website": "https://github.com/copygirl/howto-example-mod",
-	"authors": [ "copygirl" ],
+	"description" : "Hydration needs and more",
+	"website": "https://github.com/maddieknz/hydration",
+	"authors": [ "maddieknz" ],
 	
 	"dependencies": {
 		"game": "1.15.0"
